@@ -1,0 +1,6 @@
+#!/bin/bash
+# -> /root/bin/test.sh
+# -> /root/bin/test.log
+
+echo $0
+# echo $(dirname $0)

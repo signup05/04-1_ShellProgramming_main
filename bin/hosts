@@ -1,0 +1,54 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+#
+# Server List
+#
+
+192.168.10.10	main.example.com	main
+192.168.10.20	server1.example.com	server1
+192.168.10.30	server2.example.com	server2
+192.168.10.40	server3.example.com	server3
+#
+# Linux Server list
+# 
+192.168.10.11  linux11.example.com  linux11
+192.168.10.12  linux12.example.com  linux12
+192.168.10.13  linux13.example.com  linux13
+192.168.10.14  linux14.example.com  linux14
+192.168.10.15  linux15.example.com  linux15
+192.168.10.16  linux16.example.com  linux16
+192.168.10.17  linux17.example.com  linux17
+192.168.10.18  linux18.example.com  linux18
+192.168.10.19  linux19.example.com  linux19
+192.168.10.20  linux20.example.com  linux20
+192.168.10.21  linux21.example.com  linux21
+192.168.10.22  linux22.example.com  linux22
+192.168.10.23  linux23.example.com  linux23
+192.168.10.24  linux24.example.com  linux24
+192.168.10.25  linux25.example.com  linux25
+192.168.10.26  linux26.example.com  linux26
+192.168.10.27  linux27.example.com  linux27
+192.168.10.28  linux28.example.com  linux28
+192.168.10.29  linux29.example.com  linux29
+192.168.10.30  linux30.example.com  linux30
+192.168.10.31  linux31.example.com  linux31
+192.168.10.32  linux32.example.com  linux32
+192.168.10.33  linux33.example.com  linux33
+192.168.10.34  linux34.example.com  linux34
+192.168.10.35  linux35.example.com  linux35
+192.168.10.36  linux36.example.com  linux36
+192.168.10.37  linux37.example.com  linux37
+192.168.10.38  linux38.example.com  linux38
+192.168.10.39  linux39.example.com  linux39
+192.168.10.40  linux40.example.com  linux40
+192.168.10.41  linux41.example.com  linux41
+192.168.10.42  linux42.example.com  linux42
+192.168.10.43  linux43.example.com  linux43
+192.168.10.44  linux44.example.com  linux44
+192.168.10.45  linux45.example.com  linux45
+192.168.10.46  linux46.example.com  linux46
+192.168.10.47  linux47.example.com  linux47
+192.168.10.48  linux48.example.com  linux48
+192.168.10.49  linux49.example.com  linux49
+192.168.10.50  linux50.example.com  linux50
